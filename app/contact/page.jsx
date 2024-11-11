@@ -55,7 +55,7 @@ const Contact = () => {
         <div className="xl:w-[54%] order-2 xl:order-none">
             <form className="flex flex-col gap-6 p-10 bg-[#27272c] rounded-xl">
               <h3 className="text-4xl text-accent">Let's work together</h3>
-              <p className="text-white/60">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, officia impedit! Harum quis deleniti quas reiciendis minus, repellat, quasi sequi nemo amet sint vitae vel illum labore neque dignissimos exercitationem.</p>
+              <p className="text-white/60">I am a skilled software professional with 10 years of experience in Microsoft .NET technologies, including ASP.NET, C#, .NET Core, and ReactJS. I am passionate about developing efficient, user-friendly applications and enjoy collaborating with cross-functional teams. With a strong track record of leading projects, I am committed to delivering high-quality solutions and fostering successful partnerships. Let’s connect to explore how we can work together to achieve your business goals.</p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <Input type="firstname" placeholder="Firstname" />
                 <Input type="lastname" placeholder="Lastname" />

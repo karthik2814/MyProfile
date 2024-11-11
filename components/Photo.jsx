@@ -26,11 +26,11 @@ const Photo = () => {
                       }
                     }}
                     className="w-[298px] h-[298px] xl:w-[498px] xl:h-[498px] mx-blend-lighten absolute">
-            <Image src="/assets/photo.jpeg" 
+            <Image src="/assets/photo.jpg" 
                     priority 
                     quality={100} 
                     fill 
-                    alt="" 
+                    alt="KResham" 
                     className="object-contain rounded-full"
                   />
           </motion.div>

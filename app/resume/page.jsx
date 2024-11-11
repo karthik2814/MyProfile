@@ -6,7 +6,7 @@ import { SiTailwindcss, SiNextdotjs, SiBootstrap } from 'react-icons/si'
 //About Data
 const about = {
   title: "About me",
-  description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi tempora quas est blanditiis dolorem. Dolorum molestiae tenetur tempora alias praesentium neque ipsa, facere saepe sequi deleniti quidem libero provident ex?',
+  description: 'I am a skilled software professional with 10 years of experience in Microsoft .NET technologies, including ASP.NET, C#, .NET Core, and ReactJS. I am passionate about developing efficient, user-friendly applications and enjoy collaborating with cross-functional teams. With a strong track record of leading projects, I am committed to delivering high-quality solutions and fostering successful partnerships. Let’s connect to explore how we can work together to achieve your business goals.',
   info:[
     {
       fieldName: 'Name',
@@ -47,7 +47,7 @@ const about = {
 const Experience = {
   icon:'/assets/resume/exp1.png',
   title: 'My experiance',
-  description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, autem fuga? Labore consequuntur eaque perspiciatis enim repellat. Sed mollitia expedita dolorum commodi velit quam placeat culpa. Praesentium tenetur saepe suscipit?',
+  description: 'Experienced software professional with a background in four different companies, currently working onsite and leading a team of 8. Skilled in Microsoft .NET technologies, I excel in developing high-quality solutions and managing cross-functional teams to drive project success and client satisfaction',
   items: [
     {
       company: 'Infosys Limited',
@@ -82,7 +82,7 @@ const Experience = {
 const Education = {
   icon: '/assets/resume/edu.jpg',
   title: 'My Education',
-  description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil numquam aliquid at quisquam est magnam, quaerat quibusdam. Quis, ducimus voluptates enim quas neque repudiandae voluptatibus dignissimos. Odio facere adipisci nesciunt.',
+  description: 'Holding a Master’s in Business Administration and a Bachelor’s in Technology, combining technical expertise with strong business acumen to drive strategic and efficient solutions..',
   items:[
     {
       institution: 'AVN institute of Engineering & Technology',
@@ -110,7 +110,7 @@ const Education = {
 //Skills Data
 const Skills = {
   title:'My Skills.',
-  description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet vel hic, laborum ipsa molestiae omnis sed earum cum vero veniam? Assumenda, nihil impedit quod aspernatur laudantium velit quisquam eaque cumque!',
+  description: 'Proficient in Microsoft .NET technologies, including ASP.NET, C#, .NET Core, and ReactJS, with 10 years of experience spanning four companies. Skilled in developing high-performance applications, managing end-to-end project lifecycles, and leading cross-functional teams. Strong background in business and technology, bringing both strategic insight and hands-on technical expertise to deliver impactful solutions and enhance client relationships.',
   skillList : [
     {
       icon: <FaCode />,
